@@ -51,10 +51,13 @@ To evaluate the clustering algorithms without ground truth labels, intrinsic met
 
 <img width="698" height="474" alt="image" src="https://github.com/user-attachments/assets/a024d6ba-d07c-4a05-9909-dc5f1f723d7b" />
 
+
 <img width="1011" height="621" alt="image" src="https://github.com/user-attachments/assets/03ee3cf2-5b30-4ef4-b70e-49a57a9e15e5" />
 
 **2. Customer Segments (K-Means Output)**
-> ![output2.png](images/output2.png)
+
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/1066bf27-36a1-41f0-b701-ecb832a40ea9" />
+
 
 **3. Noise Detection (DBSCAN Output)**
 > ![output4.png](images/output4.png)
