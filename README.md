@@ -48,9 +48,10 @@ To evaluate the clustering algorithms without ground truth labels, intrinsic met
 ## 📊 Results Visualization
 
 **1. Finding the Optimal K (Elbow Method & Dendrogram)**
+
 <img width="698" height="474" alt="image" src="https://github.com/user-attachments/assets/a024d6ba-d07c-4a05-9909-dc5f1f723d7b" />
 
-> ![output3.png](images/output3.png)
+<img width="1011" height="621" alt="image" src="https://github.com/user-attachments/assets/03ee3cf2-5b30-4ef4-b70e-49a57a9e15e5" />
 
 **2. Customer Segments (K-Means Output)**
 > ![output2.png](images/output2.png)
