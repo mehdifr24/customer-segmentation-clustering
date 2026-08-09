@@ -60,7 +60,9 @@ To evaluate the clustering algorithms without ground truth labels, intrinsic met
 
 
 **3. Noise Detection (DBSCAN Output)**
-> ![output4.png](images/output4.png)
+
+<img width="988" height="590" alt="image" src="https://github.com/user-attachments/assets/7b1e401d-2c6b-4e7f-ba50-107052bbc712" />
+
 
 ## 🏆 Final Model Selection & Business Strategy
 
