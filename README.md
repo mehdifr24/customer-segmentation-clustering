@@ -1,5 +1,4 @@
 
-```markdown
 # 🛍️ Customer Segmentation Using Machine Learning
 
 ## 📖 About
@@ -68,7 +67,7 @@ To evaluate the clustering algorithms without ground truth labels, intrinsic met
 4. **The Young Trendsetters (Low Income, High Spending):** Great targets for youth-oriented and social media marketing.
 5. **The Conservative Seniors (Low Income, Low Spending):** Respond best to discounts and essential goods promotions.
 
-```
+
 
 ## 👨‍💻 Author
 
